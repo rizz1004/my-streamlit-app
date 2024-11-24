@@ -1,0 +1,7 @@
+# Ignore Windows system files and directories
+AppData/
+Application Data/
+Cookies/
+Temp/
+Thumbs.db
+*.tmp
