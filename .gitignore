@@ -1,0 +1,9 @@
+# Exclude system files and directories
+AppData/
+Application Data/
+Temp/
+Cookies/
+Thumbs.db
+*.log
+*.tmp
+*.bak
